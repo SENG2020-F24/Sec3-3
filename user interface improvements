@@ -2,3 +2,6 @@
 2. Labels: All buttons and icons should have clear and understandable labels.
 3. Performance: the UI should perform very well without delays and also look good with graphics.
 4. All layouts of the interface should be properly aligned
+
+
+The performance delay BUG is fixed.
